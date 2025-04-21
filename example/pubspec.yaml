@@ -6,11 +6,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_paystack: any
+  http: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-  flutter_paystack:
 
 
 flutter:
